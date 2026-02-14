@@ -1,4 +1,4 @@
-# Restaurant Web App (Angular)
+# Restaurant Web App -Angular
 This is a restaurant web application built with Angular. The app provides a smooth user experience for browsing products, managing a shopping cart, and tracking user actions. It’s designed with clarity, interactivity, and a clean UI in mind.
 
 ## Features
