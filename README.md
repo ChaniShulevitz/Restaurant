@@ -16,3 +16,15 @@ This is a restaurant web application built with Angular. The app provides a smoo
 ● Responsive Design – Basic layout uses Bootstrap and Angular Material for a modern look and feel.
 
 ## Components & Structure
+
+● site component – the main wrapper for the site content and navigation.
+
+● products component – displays the product list and integrates the shopping cart.
+
+● cart component – displays selected items with controls for modifying quantities.
+
+● activity-tracker component – shows the history of user actions.
+
+● services – handles shared data like products, cart state, and activity logs.
+
+● models – defines product structure and related data types.
